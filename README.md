@@ -5,7 +5,7 @@ class Tintef {
   constructor() {
     this.username = 'tintef';
     this.name = 'Nicolás Tinte';
-    this.web = 'https://tintef.uy';
+    this.web = 'https://tintef.dev';
     this.languages = {
       'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'VueJS'],
       'backend': ['NodeJS', 'Ruby on Rails'],
